@@ -19,3 +19,15 @@ img {
     height: 5%;
     width: 5%;
 }
+
+.textBox {
+    position: absolute;
+    text-align: center;
+    background-color: cyan;
+    border-radius: 25px;
+    width: 60%;
+    line-height: 150%;
+    left: 20%;
+}
+
+
