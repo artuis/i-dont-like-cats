@@ -1,0 +1,21 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url("https://vignette.wikia.nocookie.net/adaywithbowserjr/images/8/80/CHUNG.png/revision/latest?cb=20200327022009"), linear-gradient(purple, darkblue) ;
+    background-repeat: repeat, no-repeat;
+    background-size: 5%, 100%;
+}
+
+.heading {
+    color: yellowgreen;
+    text-align: center;
+    text-shadow: 1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 100pt;
+}
+
+img {
+    height: 5%;
+    width: 5%;
+}
